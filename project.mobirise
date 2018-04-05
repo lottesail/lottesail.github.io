@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-10_1119",
-    "currentPage": "page4.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -20,11 +20,1021 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "startpractising.html": {
+      "settings": {
+        "title": "Why I Started Practising Yoga",
+        "order": 6,
+        "meta_descr": "In this first blog entry I philosophise about the yoga glow and why I never want to give up yoga."
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
+              "height": 128,
+              "alt": "Charlotte Seiler Yoga",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "active": true,
+              "color": "#fad1c7",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-h"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Why I Started Practising Yoga",
+          "meta": "By Charlotte posted March 20, 2018",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i"
+        },
+        {
+          "text": "<p>In this first blog entry I philosophise about the yoga glow and why I never want to give up yoga.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-j"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-49d-768x1024.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Beautiful Himalayan mountains surrounding Rishikesh.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-l"
+        },
+        {
+          "text": "<p>I started yoga in 2010 at a vipasana retreat at Wat <a href=\"http://www.suanmokkh-idh.org/\" target=\"_blank\" class=\"text-danger\">Suan Mokh</a> in Chaya, Thailand. 10 days without speaking, 10 days filled with meditation and yoga every morning. After that I had times when I didn't practice actively but the seed was planted and in my everyday life I always came back to what I had learned: Breathing deeply, concentrating on one task at a time, good posture, taking time off for exercise and meditation... &nbsp;I am not at all claiming that I master these aspects but I often use the techniques to be more aware, more mindful in my daily tasks. Which is also what yoga is about for me: Being mindful and feeling good about oneself by connecting body, breath and mind .&nbsp;</p><p>Have you ever experienced that feeling after a yoga class when it seems like you're walking on clouds? I call it the yoga glow and I just love it! Yoga gave me the tool to be more satisfied with my actions and to generally feel much better about myself mentally and physically. It's a practice for everyone since it's comprised of so many different aspects. Some might come to yoga with the desire for exercise, others seek refuge from their stressful lives, a time-out. Being about moving with your breath, yoga can accommodate all these longings. Keep it up, it might as well change your lives!</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false
+          },
+          "text": "Share This Article!",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-28",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#4d5056"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<a href=\"page7.html\" class=\"text-danger\">Exploring Different Yoga Styles</a>",
+          "caption1": "Why I both value consistency and variety in my yoga practice.",
+          "title2": "<a href=\"page6.html\" class=\"text-danger\">Beating The Winter Blues With Yoga</a>",
+          "caption2": "How yoga can help us feel balanced and fresh even during the grey days of winter (plus home sequencing advice).",
+          "title3": "<a href=\"page8.html\" class=\"text-danger\">Humans vs Nature?</a>",
+          "caption3": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-1m",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fad1c7",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fbfbfb",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "social-buttons2-2p"
+        }
+      ]
+    },
+    "beatingtheblues.html": {
+      "settings": {
+        "title": "Beating The Winter Blues With Yoga",
+        "order": 5,
+        "meta_descr": "How yoga can help us feel fresh and energised during the grey winter (or spring or autumn) days (including some home sequencing advice)."
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
+              "height": 128,
+              "alt": "Charlotte Seiler Yoga",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "active": true,
+              "color": "#fad1c7",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-x"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Beating The Winter Blues With Yoga",
+          "meta": "By Charlotte posted March 25, 2018",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y"
+        },
+        {
+          "text": "<p>How yoga can help us feel fresh and energised during the grey winter (or spring or autumn) days (including some <b>home sequencing advice</b>).</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-z"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/28700732-10155380572397816-8899163940662452042-o-1152x864.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Ganga Aarti - fire offerings at the banks of the holy river in Rishikesh.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-11"
+        },
+        {
+          "text": "<p>Alright we've all been there (at least over here in the UK): having to survive again and again long periods without sunshine and a grey sky hovering above us. I still cannot believe that I haven't followed my urge of moving south- it remains a sunny dream so far. From my experience, yoga and meditation can help me get through the grey months big time. A good home practice is essential for me since it can help structure my day without much effort.</p><p><b>Home Routine</b></p><p>For example, just taking some time for introspection in the morning or evening (or whenever you have time, really) to sit still and tuning into yourself can help you build a healthy routine and feel more centred. Having a daily mindful moving routine leads to a more energised feeling all day. And by that I don't necessarily refer to a 60 minutes asana practice; many of us simply cannot find the time each day. Merely 30, 15 or even 10 minutes per day can have a huge impact. Connecting to the breath, observing how the body feels. Are any thoughts coming up? Try to gently push them aside during your time of practice. And then maybe start to move slowly, according to how you feel today.</p><p>Maybe it's just a short set of restorative poses, some mindful breathing in child pose or a reclining baddha konasana (bound angle pose). You might feel more active and start by warming your body with a few sun salutations, whatever feels good for you. I can also very much recommend to include an inversion in your daily practice. It doesn't have to be an advanced one, any inversion is good for your blood circulation. Beginners might choose a long downward dog or forward fold (uttanasana or prasarita padottanasana); more advanced practitioners might go for a shoulder-, head- or handstand. As always in yoga practice<span style=\"font-size: 1.25rem;\">: Mastering a basic pose well and getting all the benefits out of it is more important than mastering an advanced asana halfway without being able to e.g. breathe properly.</span></p><p>At the end of each routine it might feel nice to come back to that sense of introspection and take a moment to observe how your body feels now. Does your breath flow differently? Has your energy level changed? And always remember: you are not alone!! Summer will be here, I promise :)&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-12"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false
+          },
+          "text": "Share This Article!",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-27",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#4d5056"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<a href=\"page5.html\" class=\"text-danger\">Why I Started Practising Yoga</a>",
+          "caption1": "In my first yoga blog entry I philosophise about the yoga glow and why I never want to give up yoga.",
+          "title2": "<a href=\"page7.html\" class=\"text-danger\">Exploring Different Yoga Styles</a>",
+          "caption2": "Why I both value consistency and variety in my yoga practice.",
+          "title3": "<a href=\"page8.html\" class=\"text-danger\">Humans vs Nature?</a>",
+          "caption3": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-1l",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fad1c7",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fbfbfb",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "social-buttons2-2o"
+        }
+      ]
+    },
+    "exploreyogastyles.html": {
+      "settings": {
+        "title": "Exploring Different Yoga Styles",
+        "order": 4,
+        "meta_descr": "In this article I explain why I value both consistency and variety in my yoga practice."
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
+              "height": 128,
+              "alt": "Charlotte Seiler Yoga",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "active": true,
+              "color": "#fad1c7",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-15"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Exploring Different Yoga Styles",
+          "meta": "By Charlotte posted March 27, 2018",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16"
+        },
+        {
+          "text": "<p>In this article I explain why I value both consistency and variety in my yoga practice.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-17"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3f2-1024x768-800x600.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "At the beautiful 'Beatles Ashram' in Rishikesh, India.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-19"
+        },
+        {
+          "text": "<p>Recently, I've been thinking a lot about which yoga style is my favourite or which would describe best my way of practising yoga. I've mainly trained in Hatha and Ashtanga Vinyasa; however, over the years I've practised with various teachers and looked into quite different styles of yoga.&nbsp;<span style=\"font-size: 1.25rem;\">I feel that it's great to have a strong foundation in the traditional schools to be able to understand the origins of yoga. In my teacher training, for example, we put great emphasis on yoga philosophy and anatomy which provides a solid base for my practice.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">For my own approach, I've realised that it can be helpful to have a fixed routine, a set of asanas and breathing exercises which I include in every session. Repeating this set constantly enables me to grow further and to explore deeper. It gives me a better understanding of how my body changes during the different poses. This is also one reason why I understand the beauty of Ashtanga Vinyasa Yoga: The fixed sequence can help me switch off the mind and master the asanas well over time.</span></p><p>As much as I value consistency and repetition, I also believe that variety is important when practising yoga. I love experimenting with different styles and with a more 'flowing' approach to the poses. I feel that it's beneficial to explore how the body can move more freely in any pose. It's also fun to try out new elements, to challenge body and mind. Many 'Vinyasa Flow' or 'Hatha-inspired' yoga classes offer this more fluent approach to yoga.</p><p>Finding a good balance between variety and consistency is a good step towards including yoga naturally in our own lives. After all we're never the same persons from one day to the next. We might need more restorative elements at one moment while seeking a challenge when we're bursting with energy. Playfully exploring new approaches can also help overcome a fear of failure and approach life with more ease. Yoga should support us during these endeavours by being both an anchor and a tool to experiment with our body movements.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1a"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false
+          },
+          "text": "Share This Article!",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1y",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#4d5056"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<a href=\"page5.html\" class=\"text-danger\">Why I Started Practising Yoga</a>",
+          "caption1": "In my first yoga blog entry I philosophise about the yoga glow and why I never want to give up yoga.",
+          "title2": "<a href=\"page6.html\" class=\"text-danger\">Beating The Winter Blues With Yoga</a>",
+          "caption2": "How yoga can help us feel balanced and fresh even during the grey days of winter (plus home sequencing advice).",
+          "title3": "<a href=\"page8.html\" class=\"text-danger\">Humans vs Nature?</a>",
+          "caption3": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-1c",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fad1c7",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fbfbfb",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "social-buttons2-2n"
+        }
+      ]
+    },
+    "humansvsnature.html": {
+      "settings": {
+        "title": "Humans vs Nature?",
+        "order": 3,
+        "meta_descr": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature."
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
+              "height": 128,
+              "alt": "Charlotte Seiler Yoga",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "active": true,
+              "color": "#fad1c7",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-1z"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Humans vs Nature?",
+          "meta": "By Charlotte posted March 29, 2018",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20"
+        },
+        {
+          "text": "<p>Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-21"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-4380-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Bananas all-year round...",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-22",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "text": "<p>In a world full of human-made things, people in most societies are born addicted to consumption. Even before taking our first breath, people make decisions on behalf of our well-being that include the use of wasteful materials. Cotton swabs, syringes, diapers- let alone all the gifts and toys we receive from the very beginning onward. Everything wrapped neatly in shiny, appealing packaging. The attachment to things is one problem but the biggest issue here is the over-consumption and the depletion of natural resources all over the world. </p><p>When contemplating on the social structures underlying this limitless consumption, I came back to Max Weber's concept of the Protestant ethics.&nbsp;<span style=\"font-size: 1.25rem;\">Weber establishes a link between capitalism and a disenchanted rational society where people are expected to work long hours, enjoy less leisure time and consume a lot. We burden ourselves with hard work to acquire stuff that does not fulfil the promise of making us better and happier persons. Sounds paradox? It seems like something is severely going out of hand in societies all around the globe.</span></p><div><b>Governing The Environment</b></div><div><br></div><div>The cultural philosopher Charles Eisenstein describes the logics behind the capitalist exploitation of natural resources: He explores the aspirations of humans to control nature. This implies the idea of being able to govern and predict everything, eliminating any doubts and surprises. Humans are accordingly seeing themselves as a separate entity from their surroundings, as a dominant and ruling force superior to nature. A binary between the 'civilised, successful' human and the 'underdeveloped' natural environment is established in this world view. Since nature is not seen as valuable in itself it is simply treated as a means to an end.</div><div><br></div><div>It is no wonder that humanity is treating the planet in such a careless way if our idea of progress is linked to working hard, consuming without end and ruling over our environments. It is definitely time to change something about that. I strongly believe that practising yoga and meditation can help us step out of this rationale. They&nbsp;<span style=\"font-size: 1.25rem;\">are tools to re-evaluate how we want to relate to the beautiful world surrounding us and attach more value to the natural environment. When consuming yoga-related products we should also be mindful of the ethics behind it. I've for example acquired a </span><a href=\"https://www.manduka.com/eu/\" target=\"_blank\" class=\"text-danger\" style=\"font-size: 1.25rem; background-color: rgb(255, 255, 255);\">Manduka eko</a><span style=\"font-size: 1.25rem;\"> yoga mat which is made out of natural rubber. I know rubber comes with its own ecological implications, but it's a start..</span></div><div><br></div><div><b>Sources</b></div><div><br></div><div>Eisenstein, C. (2007). The Ascent of Humanity. Panenthea Press.</div><div><br></div><div>Weber, M. (2005 [1930 ]). Protestant Ethic and the Spirit of Capitalism. London, New York: Routledge.</div><p></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-23"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false
+          },
+          "text": "Share This Article!",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-24",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#4d5056"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<a href=\"page5.html\" class=\"text-danger\">Why I Started Practising Yoga</a>",
+          "caption1": "In my first yoga blog entry I philosophise about the yoga glow and why I never want to give up yoga.",
+          "title2": "<a href=\"page6.html\" class=\"text-danger\">Beating The Winter Blues With Yoga</a>",
+          "caption2": "How yoga can help us feel balanced and fresh even during the grey days of winter (plus home sequencing advice).",
+          "title3": "<a href=\"page7.html\" class=\"text-danger\">Exploring Different Yoga Styles</a>",
+          "caption3": "Why I both value consistency and variety in my yoga practice.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content4-25"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fad1c7",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fbfbfb",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "social-buttons2-2m"
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {
+        "title": "About",
+        "order": 1,
+        "meta_descr": "Originally from Berlin, I have lived in international contexts for almost 10 years now. I've practiced and loved yoga since 2010 when I discovered it at a vipasana retreat in Thailand. After years of practice I felt ready to pass on my knowledge to others. I've thus completed a 200h Yoga Alliance certified teacher training in Rishikesh, India at the start of 2018. I teach a variety of styles from slow flow to dynamic vinyasa yoga."
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-67-2000x1500-800x600-800x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.2"
+          },
+          "title": "About",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#fbfbfb",
+              "font-size": "80px"
+            }
+          },
+          "_anchor": "content5-2c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-6027-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "My Story",
+          "caption": "<p>Originally from Berlin, I have lived in international contexts for almost 10 years now. I've practiced and loved yoga since 2010 when I discovered it at a vipasana retreat in Thailand. After years of practice I felt ready to pass on my knowledge to others. I've thus completed a 200h Yoga Alliance certified teacher training in Rishikesh, India at the start of 2018. At the beautiful <a href=\"https://www.indianyogaassociation.com/\" target=\"_blank\" class=\"text-danger\">Association</a> for Yoga and Meditation I was trained in Hatha and Ashtanga Vinyasa.&nbsp;<span style=\"font-size: 1.25rem;\">I am thus familiar with some of the more traditional roots of yoga. In my teachings, I combine these traditional elements (including philosophy and anatomy) with some more modern aspects of &nbsp;Vinyasa yoga. I am as passionate about yoga as I am about sustainability. Having completed my M.A. in Sustainable Design at the University of Brighton, I strive to combine my yoga practice with my passion for all things sustainable. I hope to meet you soon in class! You can contact me </span><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\" style=\"font-size: 1.25rem; background-color: rgb(255, 255, 255);\">here</a><span style=\"font-size: 1.25rem;\"> to book a class or a workshop.</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2i",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#4a4c51"
+            },
+            "P": {
+              "color": "#4d5056"
+            }
+          }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
+              "height": 128,
+              "alt": "Charlotte Seiler Yoga",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "active": true,
+              "color": "#fad1c7",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-2f"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fad1c7",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fbfbfb",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "social-buttons2-2l"
+        }
+      ]
+    },
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "I'm a Brighton-based yoga teacher, passionate about yoga and sustainability. Yoga has been an essential part of my life for many years and I teach a variety of styles from slow flow to dynamic. I hope to meet you soon in class!  In the meanwhile, I'm sharing my thoughts on yoga and a sustainable lifestyle here on my blog.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -249,10 +1259,11 @@
         }
       ]
     },
-    "page2.html": {
+    "blog.html": {
       "settings": {
         "title": "Blog",
-        "order": 2
+        "order": 2,
+        "meta_descr": "On my blog I share my thoughts on yoga and sustainability. "
       },
       "components": [
         {
@@ -635,10 +1646,11 @@
         }
       ]
     },
-    "page4.html": {
+    "contact.html": {
       "settings": {
         "title": "Contact",
-        "order": 7
+        "order": 7,
+        "meta_descr": "Drop me a line if you want to book me for a class or workshop!"
       },
       "components": [
         {
@@ -808,1011 +1820,6 @@
             }
           },
           "_anchor": "social-buttons2-2q"
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "title": "Blogpost 1",
-        "order": 6
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
-              "height": 128,
-              "alt": "Charlotte Seiler Yoga",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "hearth",
-              "family": "MobiriseIcons",
-              "active": true,
-              "color": "#fad1c7",
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            }
-          },
-          "_anchor": "menu-h"
-        },
-        {
-          "_params": {
-            "showMeta": true
-          },
-          "title": "Why I Started Practising Yoga",
-          "meta": "By Charlotte posted March 20, 2018",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-i"
-        },
-        {
-          "text": "<p>In this first blog entry I philosophise about the yoga glow and why I never want to give up yoga.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-j"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-49d-768x1024.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Beautiful Himalayan mountains surrounding Rishikesh.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-l"
-        },
-        {
-          "text": "<p>I started yoga in 2010 at a vipasana retreat at Wat <a href=\"http://www.suanmokkh-idh.org/\" target=\"_blank\" class=\"text-danger\">Suan Mokh</a> in Chaya, Thailand. 10 days without speaking, 10 days filled with meditation and yoga every morning. After that I had times when I didn't practice actively but the seed was planted and in my everyday life I always came back to what I had learned: Breathing deeply, concentrating on one task at a time, good posture, taking time off for exercise and meditation... &nbsp;I am not at all claiming that I master these aspects but I often use the techniques to be more aware, more mindful in my daily tasks. Which is also what yoga is about for me: Being mindful and feeling good about oneself by connecting body, breath and mind .&nbsp;</p><p>Have you ever experienced that feeling after a yoga class when it seems like you're walking on clouds? I call it the yoga glow and I just love it! Yoga gave me the tool to be more satisfied with my actions and to generally feel much better about myself mentally and physically. It's a practice for everyone since it's comprised of so many different aspects. Some might come to yoga with the desire for exercise, others seek refuge from their stressful lives, a time-out. Being about moving with your breath, yoga can accommodate all these longings. Keep it up, it might as well change your lives!</p><p><br></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-m"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "twitter": true,
-            "google": false
-          },
-          "text": "Share This Article!",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-28",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#4d5056"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "<a href=\"page7.html\" class=\"text-danger\">Exploring Different Yoga Styles</a>",
-          "caption1": "Why I both value consistency and variety in my yoga practice.",
-          "title2": "<a href=\"page6.html\" class=\"text-danger\">Beating The Winter Blues With Yoga</a>",
-          "caption2": "How yoga can help us feel balanced and fresh even during the grey days of winter (plus home sequencing advice).",
-          "title3": "<a href=\"page8.html\" class=\"text-danger\">Humans vs Nature?</a>",
-          "caption3": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_anchor": "content4-1m",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fad1c7",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fbfbfb",
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "social-buttons2-2p"
-        }
-      ]
-    },
-    "page6.html": {
-      "settings": {
-        "title": "Blogpost 2",
-        "order": 5
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
-              "height": 128,
-              "alt": "Charlotte Seiler Yoga",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "hearth",
-              "family": "MobiriseIcons",
-              "active": true,
-              "color": "#fad1c7",
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            }
-          },
-          "_anchor": "menu-x"
-        },
-        {
-          "_params": {
-            "showMeta": true
-          },
-          "title": "Beating The Winter Blues With Yoga",
-          "meta": "By Charlotte posted March 25, 2018",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-y"
-        },
-        {
-          "text": "<p>How yoga can help us feel fresh and energised during the grey winter (or spring or autumn) days (including some <b>home sequencing advice</b>).</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-z"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/28700732-10155380572397816-8899163940662452042-o-1152x864.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Ganga Aarti - fire offerings at the banks of the holy river in Rishikesh.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-11"
-        },
-        {
-          "text": "<p>Alright we've all been there (at least over here in the UK): having to survive again and again long periods without sunshine and a grey sky hovering above us. I still cannot believe that I haven't followed my urge of moving south- it remains a sunny dream so far. From my experience, yoga and meditation can help me get through the grey months big time. A good home practice is essential for me since it can help structure my day without much effort.</p><p><b>Home Routine</b></p><p>For example, just taking some time for introspection in the morning or evening (or whenever you have time, really) to sit still and tuning into yourself can help you build a healthy routine and feel more centred. Having a daily mindful moving routine leads to a more energised feeling all day. And by that I don't necessarily refer to a 60 minutes asana practice; many of us simply cannot find the time each day. Merely 30, 15 or even 10 minutes per day can have a huge impact. Connecting to the breath, observing how the body feels. Are any thoughts coming up? Try to gently push them aside during your time of practice. And then maybe start to move slowly, according to how you feel today.</p><p>Maybe it's just a short set of restorative poses, some mindful breathing in child pose or a reclining baddha konasana (bound angle pose). You might feel more active and start by warming your body with a few sun salutations, whatever feels good for you. I can also very much recommend to include an inversion in your daily practice. It doesn't have to be an advanced one, any inversion is good for your blood circulation. Beginners might choose a long downward dog or forward fold (uttanasana or prasarita padottanasana); more advanced practitioners might go for a shoulder-, head- or handstand. As always in yoga practice<span style=\"font-size: 1.25rem;\">: Mastering a basic pose well and getting all the benefits out of it is more important than mastering an advanced asana halfway without being able to e.g. breathe properly.</span></p><p>At the end of each routine it might feel nice to come back to that sense of introspection and take a moment to observe how your body feels now. Does your breath flow differently? Has your energy level changed? And always remember: you are not alone!! Summer will be here, I promise :)&nbsp;</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-12"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "twitter": true,
-            "google": false
-          },
-          "text": "Share This Article!",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-27",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#4d5056"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "<a href=\"page5.html\" class=\"text-danger\">Why I Started Practising Yoga</a>",
-          "caption1": "In my first yoga blog entry I philosophise about the yoga glow and why I never want to give up yoga.",
-          "title2": "<a href=\"page7.html\" class=\"text-danger\">Exploring Different Yoga Styles</a>",
-          "caption2": "Why I both value consistency and variety in my yoga practice.",
-          "title3": "<a href=\"page8.html\" class=\"text-danger\">Humans vs Nature?</a>",
-          "caption3": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_anchor": "content4-1l",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fad1c7",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fbfbfb",
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "social-buttons2-2o"
-        }
-      ]
-    },
-    "page7.html": {
-      "settings": {
-        "title": "Blogpost 3",
-        "order": 4
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
-              "height": 128,
-              "alt": "Charlotte Seiler Yoga",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "hearth",
-              "family": "MobiriseIcons",
-              "active": true,
-              "color": "#fad1c7",
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            }
-          },
-          "_anchor": "menu-15"
-        },
-        {
-          "_params": {
-            "showMeta": true
-          },
-          "title": "Yoga Routines And Exp",
-          "meta": "By Charlotte posted March 27, 2018",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-16"
-        },
-        {
-          "text": "<p>In this article I explain why I value both consistency and variety in my yoga practice.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-17"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3f2-1024x768-800x600.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "At the beautiful 'Beatles Ashram' in Rishikesh, India.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-19"
-        },
-        {
-          "text": "<p>Recently, I've been thinking a lot about which yoga style is my favourite or which would describe best my way of practising yoga. I've mainly trained in Hatha and Ashtanga Vinyasa; however, over the years I've practised with various teachers and looked into quite different styles of yoga.&nbsp;<span style=\"font-size: 1.25rem;\">I feel that it's great to have a strong foundation in the traditional schools to be able to understand the origins of yoga. In my teacher training, for example, we put great emphasis on yoga philosophy and anatomy which provides a solid base for my practice.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">For my own approach, I've realised that it can be helpful to have a fixed routine, a set of asanas and breathing exercises which I include in every session. Repeating this set constantly enables me to grow further and to explore deeper. It gives me a better understanding of how my body changes during the different poses. This is also one reason why I understand the beauty of Ashtanga Vinyasa Yoga: The fixed sequence can help me switch off the mind and master the asanas well over time.</span></p><p>As much as I value consistency and repetition, I also believe that variety is important when practising yoga. I love experimenting with different styles and with a more 'flowing' approach to the poses. I feel that it's beneficial to explore how the body can move more freely in any pose. It's also fun to try out new elements, to challenge body and mind. Many 'Vinyasa Flow' or 'Hatha-inspired' yoga classes offer this more fluent approach to yoga.</p><p>Finding a good balance between variety and consistency is a good step towards including yoga naturally in our own lives. After all we're never the same persons from one day to the next. We might need more restorative elements at one moment while seeking a challenge when we're bursting with energy. Playfully exploring new approaches can also help overcome a fear of failure and approach life with more ease. Yoga should support us during these endeavours by being both an anchor and a tool to experiment with our body movements.&nbsp;</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1a"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "twitter": true,
-            "google": false
-          },
-          "text": "Share This Article!",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-1y",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#4d5056"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "<a href=\"page5.html\" class=\"text-danger\">Why I Started Practising Yoga</a>",
-          "caption1": "In my first yoga blog entry I philosophise about the yoga glow and why I never want to give up yoga.",
-          "title2": "<a href=\"page6.html\" class=\"text-danger\">Beating The Winter Blues With Yoga</a>",
-          "caption2": "How yoga can help us feel balanced and fresh even during the grey days of winter (plus home sequencing advice).",
-          "title3": "<a href=\"page8.html\" class=\"text-danger\">Humans vs Nature?</a>",
-          "caption3": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_anchor": "content4-1c",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fad1c7",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fbfbfb",
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "social-buttons2-2n"
-        }
-      ]
-    },
-    "page8.html": {
-      "settings": {
-        "title": "Blogpost 4",
-        "order": 3
-      },
-      "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
-              "height": 128,
-              "alt": "Charlotte Seiler Yoga",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "hearth",
-              "family": "MobiriseIcons",
-              "active": true,
-              "color": "#fad1c7",
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            }
-          },
-          "_anchor": "menu-1z"
-        },
-        {
-          "_params": {
-            "showMeta": true
-          },
-          "title": "Humans vs Nature?",
-          "meta": "By Charlotte posted March 29, 2018",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-20"
-        },
-        {
-          "text": "<p>Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-21"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-4380-1400x933.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Bananas all-year round...",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-22",
-          "_styles": {
-            "DIV": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "text": "<p>In a world full of human-made things, people in most societies are born addicted to consumption. Even before taking our first breath, people make decisions on behalf of our well-being that include the use of wasteful materials. Cotton swabs, syringes, diapers- let alone all the gifts and toys we receive from the very beginning onward. Everything wrapped neatly in shiny, appealing packaging. The attachment to things is one problem but the biggest issue here is the over-consumption and the depletion of natural resources all over the world. </p><p>When contemplating on the social structures underlying this limitless consumption, I came back to Max Weber's concept of the Protestant ethics.&nbsp;<span style=\"font-size: 1.25rem;\">Weber establishes a link between capitalism and a disenchanted rational society where people are expected to work long hours, enjoy less leisure time and consume a lot. We burden ourselves with hard work to acquire stuff that does not fulfil the promise of making us better and happier persons. Sounds paradox? It seems like something is severely going out of hand in societies all around the globe.</span></p><div><b>Governing The Environment</b></div><div><br></div><div>The cultural philosopher Charles Eisenstein describes the logics behind the capitalist exploitation of natural resources: He explores the aspirations of humans to control nature. This implies the idea of being able to govern and predict everything, eliminating any doubts and surprises. Humans are accordingly seeing themselves as a separate entity from their surroundings, as a dominant and ruling force superior to nature. A binary between the 'civilised, successful' human and the 'underdeveloped' natural environment is established in this world view. Since nature is not seen as valuable in itself it is simply treated as a means to an end.</div><div><br></div><div>It is no wonder that humanity is treating the planet in such a careless way if our idea of progress is linked to working hard, consuming without end and ruling over our environments. It is definitely time to change something about that. I strongly believe that practising yoga and meditation can help us step out of this rationale. They&nbsp;<span style=\"font-size: 1.25rem;\">are tools to re-evaluate how we want to relate to the beautiful world surrounding us and attach more value to the natural environment. When consuming yoga-related products we should also be mindful of the ethics behind it. I've for example acquired a </span><a href=\"https://www.manduka.com/eu/\" target=\"_blank\" class=\"text-danger\" style=\"font-size: 1.25rem; background-color: rgb(255, 255, 255);\">Manduka eko</a><span style=\"font-size: 1.25rem;\"> yoga mat which is made out of natural rubber. I know rubber comes with its own ecological implications, but it's a start..</span></div><div><br></div><div><b>Sources</b></div><div><br></div><div>Eisenstein, C. (2007). The Ascent of Humanity. Panenthea Press.</div><div><br></div><div>Weber, M. (2005 [1930 ]). Protestant Ethic and the Spirit of Capitalism. London, New York: Routledge.</div><p></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-23"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "twitter": true,
-            "google": false
-          },
-          "text": "Share This Article!",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-24",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#4d5056"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "<a href=\"page5.html\" class=\"text-danger\">Why I Started Practising Yoga</a>",
-          "caption1": "In my first yoga blog entry I philosophise about the yoga glow and why I never want to give up yoga.",
-          "title2": "<a href=\"page6.html\" class=\"text-danger\">Beating The Winter Blues With Yoga</a>",
-          "caption2": "How yoga can help us feel balanced and fresh even during the grey days of winter (plus home sequencing advice).",
-          "title3": "<a href=\"page7.html\" class=\"text-danger\">Exploring Different Yoga Styles</a>",
-          "caption3": "Why I both value consistency and variety in my yoga practice.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content4-25"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fad1c7",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fbfbfb",
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "social-buttons2-2m"
-        }
-      ]
-    },
-    "page9.html": {
-      "settings": {
-        "title": "About",
-        "order": 1
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-67-2000x1500-800x600-800x600.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.2"
-          },
-          "title": "About",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "color": "#fbfbfb",
-              "font-size": "80px"
-            }
-          },
-          "_anchor": "content5-2c"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-6027-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
-          },
-          "title": "My Story",
-          "caption": "<p>Originally from Berlin, I have lived in international contexts for almost 10 years now. I've practiced and loved yoga since 2010 when I discovered it at a vipasana retreat in Thailand. After years of practice I felt ready to pass on my knowledge to others. I thus did a 200h Yoga Alliance certified teacher training in Rishikesh, India at the start of 2018. At the beautiful <a href=\"https://www.indianyogaassociation.com/\" target=\"_blank\" class=\"text-danger\">Association</a> for Yoga and Meditation I was trained in Hatha and Ashtanga Vinyasa.&nbsp;<span style=\"font-size: 1.25rem;\">I am thus familiar with some of the more traditional roots of yoga. In my teachings, I combine these traditional elements (including philosophy and anatomy) with some more modern aspects of &nbsp;Vinyasa yoga. I am as passionate about yoga as I am about sustainability. Having completed my M.A. in Sustainable Design at the University of Brighton, I strive to combine my yoga practice with my passion for all things sustainable. I hope to meet you soon in class! You can contact me </span><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\" style=\"font-size: 1.25rem; background-color: rgb(255, 255, 255);\">here</a><span style=\"font-size: 1.25rem;\"> to book a class or a workshop.</span></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2i",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#4a4c51"
-            },
-            "P": {
-              "color": "#4d5056"
-            }
-          }
-        },
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
-              "height": 128,
-              "alt": "Charlotte Seiler Yoga",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "hearth",
-              "family": "MobiriseIcons",
-              "active": true,
-              "color": "#fad1c7",
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            }
-          },
-          "_anchor": "menu-2f"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fad1c7",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fbfbfb",
-              "font-family": "'Alegreya Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "social-buttons2-2l"
         }
       ]
     }
