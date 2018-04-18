@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-10-10_1119",
-    "currentPage": "exploreyogastyles.html",
+    "name": "Charlotte Seiler Yoga",
+    "currentPage": "beatingtheblues.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,16 +14,20 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 100,
+    "uniqCompNum": 109,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "startpractising.html": {
       "settings": {
         "title": "Why I Started Practising Yoga",
-        "order": 6,
+        "order": 7,
         "meta_descr": "In this first blog entry I philosophise about the yoga glow and why I never want to give up yoga."
       },
       "components": [
@@ -235,7 +239,7 @@
     "beatingtheblues.html": {
       "settings": {
         "title": "Beating The Winter Blues With Yoga",
-        "order": 5,
+        "order": 6,
         "meta_descr": "How yoga can help us feel fresh and energised during the grey winter (or spring or autumn) days (including some home sequencing advice)."
       },
       "components": [
@@ -447,7 +451,7 @@
     "exploreyogastyles.html": {
       "settings": {
         "title": "Exploring Different Yoga Styles",
-        "order": 4,
+        "order": 5,
         "meta_descr": "In this article I explain why I value both consistency and variety in my yoga practice."
       },
       "components": [
@@ -659,7 +663,7 @@
     "humansvsnature.html": {
       "settings": {
         "title": "Humans vs Nature?",
-        "order": 3,
+        "order": 4,
         "meta_descr": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature."
       },
       "components": [
@@ -1329,6 +1333,71 @@
             "image": {
               "active": true,
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-c1-1026x766.jpg",
+              "link": "page8.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<a href=\"page8.html\" target=\"_blank\" class=\"text-black\">Yoga Starts Off The Mat -But How?</a>",
+          "text": "<p>How small daily exercises can benefit our wellbeing and balance our posture (every movement is a potential pose).</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Continue Reading</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-30"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "11",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/img-4381-1400x933.jpg",
               "link": "page8.html",
               "alt": "",
@@ -1649,7 +1718,7 @@
     "contact.html": {
       "settings": {
         "title": "Contact",
-        "order": 7,
+        "order": 8,
         "meta_descr": "Drop me a line if you want to book me for a class or workshop!"
       },
       "components": [
@@ -1820,6 +1889,223 @@
             }
           },
           "_anchor": "social-buttons2-2q"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "Yoga starts off the mat - but how?",
+        "order": 3,
+        "meta_descr": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature."
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page9.html\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Blog</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1%20gingko-165x128.png",
+              "height": 128,
+              "alt": "Charlotte Seiler Yoga",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "active": true,
+              "color": "#fad1c7",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Charlotte Seiler Yoga</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-2s"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Yoga Starts Off The Mat -But How?",
+          "meta": "By Charlotte posted April 17, 2018",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2t"
+        },
+        {
+          "text": "<p>How small daily exercises can benefit our wellbeing and balance our posture (every movement is a potential pose).</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2u"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-c1-1026x766.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Balancing like a pro - spotted in Brighton :)",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "image2-2v"
+        },
+        {
+          "text": "<p>During the last weeks I've been experimenting with the slogan <b>yoga starts off the mat</b>. This certainly refers to a holistic yogic lifestyle; however, I believe that small changes in our daily routine can already make a difference without us having to sign up for the whole thing (this might come naturally over time). My starting point was the idea that <b>every movement is a pose</b>. What do I mean by that? Everything we do with our bodies at every moment is impacting our posture to a certain degree. If we stop at any moment to 'freeze' in our movement we can become aware of where we are in space: Is your right arm extended forward? Are you hinging in your hip? Is your leg twisting, your foot moving inwards or outwards? - it's basically a pose even if it might be skewed.</p><p>These daily 'poses' can be bad or beneficial but they all impact our body severely over time. Be it at stressful service jobs or in office environments: many of us are constantly repeating the same movements every day. Think of the body as play dough that can be moulded diversely but might dry out and stick to a shape. Ok but how can we use this insight in our daily life? It's basically about bringing awareness to our unconscious movements. Here are some small <b>life hacks </b>&nbsp;that can help you balancing your posture better. Give it a go, it's actually fun trying!</p><p>Increase balancing skills</p><p>Level the activity of both sides of the body</p><p>Activate every part of the body</p><p>Be strong</p><p>Be flexible</p><p>Enjoy moving</p><p><br></p><p><br></p><p></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2w"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false
+          },
+          "text": "Share This Article!",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#4d5056"
+            }
+          },
+          "_anchor": "social-buttons1-2x"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<a href=\"humansvsnature.html\" class=\"text-danger\">Humans vs Nature?</a>",
+          "caption1": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.",
+          "title2": "<a href=\"page6.html\" class=\"text-danger\">Beating The Winter Blues With Yoga</a>",
+          "caption2": "How yoga can help us feel balanced and fresh even during the grey days of winter (plus home sequencing advice).",
+          "title3": "<a href=\"page7.html\" class=\"text-danger\">Exploring Different Yoga Styles</a>",
+          "caption3": "Why I both value consistency and variety in my yoga practice.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content4-2y"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fad1c7",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Copyright (c) 2018 Charlotte Seiler.<br><a href=\"page4.html\" target=\"_blank\" class=\"text-danger\">Contact</a>&nbsp;",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Charlotte-Seiler-Yoga-184376232365553/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/lotteseiler\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fbfbfb",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "social-buttons2-2z"
         }
       ]
     }

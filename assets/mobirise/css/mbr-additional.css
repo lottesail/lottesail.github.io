@@ -109,6 +109,12 @@
   color: #fbfbfb;
   font-size: 80px;
 }
+#msg-box4-30 .mbr-section-title {
+  text-align: left;
+}
+#msg-box4-30 .lead P {
+  text-align: left;
+}
 #msg-box4-2j .mbr-section-title {
   text-align: left;
 }
@@ -161,6 +167,24 @@
   color: #8f99af;
 }
 #social-buttons2-2q .mbr-section-title {
+  color: #fbfbfb;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
+}
+
+#menu-2s .navbar-toggler {
+  color: #000;
+}
+#image2-2v DIV {
+  text-align: left;
+}
+#social-buttons1-2x .mbr-section-title {
+  color: #4d5056;
+}
+#content4-2y P {
+  text-align: center;
+}
+#social-buttons2-2z .mbr-section-title {
   color: #fbfbfb;
   font-family: 'Alegreya Sans', sans-serif;
   font-size: 20px;
