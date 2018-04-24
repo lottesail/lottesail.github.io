@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Charlotte Seiler Yoga",
-    "currentPage": "blog.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -15,7 +15,7 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 109,
-    "versionPublish": "4.6.6",
+    "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1334,7 +1334,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-c1-1026x766.jpg",
-              "link": "page8.html",
+              "link": "yogaoffthemat.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -1351,14 +1351,14 @@
               "size": 0
             }
           },
-          "title": "<a href=\"page8.html\" target=\"_blank\" class=\"text-black\">Yoga Starts Off The Mat -But How?</a>",
+          "title": "<a href=\"yogaoffthemat.html\" target=\"_blank\" class=\"text-black\">Yoga Starts Off The Mat -But How?</a>",
           "text": "<p>How small daily exercises can benefit our wellbeing and balance our posture (every movement is a potential pose).</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Continue Reading</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"yogaoffthemat.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Continue Reading</a>",
           "_name": "msg-box4",
           "_styles": {
             ".mbr-section-title": {
@@ -1892,11 +1892,11 @@
         }
       ]
     },
-    "page8.html": {
+    "yogaoffthemat.html": {
       "settings": {
-        "title": "Yoga starts off the mat - but how?",
+        "title": "Yoga Starts Off The Mat - But How?",
         "order": 3,
-        "meta_descr": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature."
+        "meta_descr": "How small daily exercises can benefit our wellbeing and balance our posture (every movement is a potential pose)."
       },
       "components": [
         {
@@ -1999,7 +1999,7 @@
           "_anchor": "image2-2v"
         },
         {
-          "text": "<p>During the last weeks I've been experimenting with the slogan <b>yoga starts off the mat</b>. This certainly refers to a holistic yogic lifestyle; however, I believe that small changes in our daily routine can already make a difference without us having to sign up for the whole thing (this might come naturally over time). My starting point was the idea that <b>every movement is a pose</b>. What do I mean by that? Everything we do with our bodies at every moment is impacting our posture to a certain degree. If we stop at any moment to 'freeze' in our movement we can become aware of where we are in space: Is your right arm extended forward? Are you hinging in your hip? Is your leg twisting, your foot moving inwards or outwards? - it's basically a pose even if it might be skewed.</p><p>These daily 'poses' can be bad or beneficial but they all impact our body severely over time. Be it at stressful service jobs or in office environments: many of us are constantly repeating the same movements every day. Think of the body as play dough that can be moulded diversely but might dry out and stick to a shape. Ok but how can we use this insight in our daily life? It's basically about bringing awareness to our unconscious movements. Here are some small <b>life hacks </b>&nbsp;that can help you balancing your posture better. Give it a go, it's actually fun trying!</p><p><b>Increase balancing skills</b></p><p>When putting on your socks/ shoes or tying your laces: try not to sit down but balance instead</p><p><b>Level the activity of both sides of the body</b></p><p>Try executing tasks with your non-dominant hand</p><p>Activate every part of the body</p><p>Be strong</p><p>Be flexible</p><p>Enjoy moving</p><p><br></p><p><br></p><p></p>",
+          "text": "<p>During the last weeks I've been experimenting with the slogan <b>yoga starts off the mat</b>. This certainly refers to a holistic yogic lifestyle; however, I believe that small changes in our daily routine can already make a difference without us having to sign up for the whole thing (this might come naturally over time). My starting point was the idea that <b>every movement is a pose</b>. What do I mean by that? Everything we do with our bodies at every moment is impacting our posture to a certain degree. If we stop at any moment to 'freeze' in our movement we can become aware of where we are in space: Is your right arm extended forward? Are you hinging in your hip? Is your leg twisting, your foot moving inwards or outwards? - it's basically a pose even if it might be skewed.</p><p>These daily 'poses' can be bad or beneficial but they all impact our body severely over time. Be it at stressful service jobs or in office environments: many of us are constantly repeating the same movements every day. Think of the body as play dough that can be moulded diversely but might dry out and stick to a shape. Ok but how can we use this insight in our daily life? It's basically about bringing awareness to our unconscious movements. Here are some small <b>life hacks </b>&nbsp;that can help you balancing your posture better. Give it a go, it's actually fun trying!</p><p><b>Increase balancing skills:&nbsp;</b><span style=\"font-size: 1.25rem;\">When putting on your socks/ shoes or tying your laces: try not to sit down but balance instead. This increases balancing skills and brings more flexibility as well.</span></p><p><b>Level the activity of both sides of the body:&nbsp;</b><span style=\"font-size: 1.25rem;\">Try executing tasks with your non-dominant hand (even in the bathroom :) it's great to twist to both sides when cleaning yourself.. not kidding)</span></p><p><b>Activate every part of the body:&nbsp;</b><span style=\"font-size: 1.25rem;\">Don't forget that your fingers and feet are essential to your overall posture. Walk barefoot, wriggle your toes, move your wrists! You can feel the beauty of these movements when the energy flows freely through your entire body. You can also practise to move your toes independently (why not try this at the office?).</span></p><p><b>Remind yourself frequently to change your posture:</b> Long intervals of sitting at a desk &nbsp;often lead to hunched backs, rounded shoulders and lower back pain. Move around on your chair, roll the shoulders back, open the chest and maybe stretch yourself nicely by extending the arms over your head.</p><p><span style=\"font-size: 1.25rem;\">And always remember: Be strong, b</span><span style=\"font-size: 1.25rem;\">e flexible and most importantly e</span><span style=\"font-size: 1.25rem;\">njoy moving :) 🌸</span></p><p><br></p><p><br></p><p></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
