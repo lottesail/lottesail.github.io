@@ -188,7 +188,7 @@
           "caption1": "Why I both value consistency and variety in my yoga practice.",
           "title2": "<a href=\"page6.html\" class=\"text-danger\">Beating The Winter Blues With Yoga</a>",
           "caption2": "How yoga can help us feel balanced and fresh even during the grey days of winter (plus home sequencing advice).",
-          "title3": "<a href=\"page8.html\" class=\"text-danger\">Humans vs Nature?</a>",
+          "title3": "<a href=\"humansvsnature.html\" class=\"text-danger\">Humans vs Nature?</a>",
           "caption3": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.",
           "title4": "Unlimited Websites",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -400,7 +400,7 @@
           "caption1": "In my first yoga blog entry I philosophise about the yoga glow and why I never want to give up yoga.",
           "title2": "<a href=\"page7.html\" class=\"text-danger\">Exploring Different Yoga Styles</a>",
           "caption2": "Why I both value consistency and variety in my yoga practice.",
-          "title3": "<a href=\"page8.html\" class=\"text-danger\">Humans vs Nature?</a>",
+          "title3": "<a href=\"humansvsnature.html\" class=\"text-danger\">Humans vs Nature?</a>",
           "caption3": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.",
           "title4": "Unlimited Websites",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -612,7 +612,7 @@
           "caption1": "In my first yoga blog entry I philosophise about the yoga glow and why I never want to give up yoga.",
           "title2": "<a href=\"page6.html\" class=\"text-danger\">Beating The Winter Blues With Yoga</a>",
           "caption2": "How yoga can help us feel balanced and fresh even during the grey days of winter (plus home sequencing advice).",
-          "title3": "<a href=\"page8.html\" class=\"text-danger\">Humans vs Nature?</a>",
+          "title3": "<a href=\"humansvsnature.html\" class=\"text-danger\">Humans vs Nature?</a>",
           "caption3": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.",
           "title4": "Unlimited Websites",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -1399,7 +1399,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/img-4381-1400x933.jpg",
-              "link": "page8.html",
+              "link": "humansvsnature.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -1416,14 +1416,14 @@
               "size": 0
             }
           },
-          "title": "<a href=\"page8.html\" target=\"_blank\" class=\"text-black\">Humans vs Nature?</a>",
+          "title": "<a href=\"humansvsnature.html\" target=\"_blank\" class=\"text-black\">Humans vs Nature?</a>",
           "text": "<p>Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Continue Reading</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"humansvsnature.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Continue Reading</a>",
           "_name": "msg-box4",
           "_styles": {
             ".mbr-section-title": {
