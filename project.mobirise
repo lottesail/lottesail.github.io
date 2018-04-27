@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Charlotte Seiler Yoga",
-    "currentPage": "blog.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -15,7 +15,7 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 109,
-    "versionPublish": "4.7.1",
+    "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
