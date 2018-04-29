@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/soundcloud-plugin/style.css">
+  <link rel="stylesheet" href="assets/gdpr-plugin/gdpr-styles.css">
   <link rel="stylesheet" href="assets/socicon/css/socicon.min.css">
   <link rel="stylesheet" href="assets/puritym/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
@@ -58,7 +59,7 @@
 
                 <div data-form-alert="true"><div hidden="" data-form-alert-success="true">Thanks for filling out form!</div></div>
                 <form action="https://mobirise.com/" method="post" data-form-title="Contact Form">
-                    <input type="hidden" value="DNtZxadiCyp6sT0g7LS7+Qkc2LdGwJB9+uXmRAWXkI5leXnBrdczFRGGJWyuEa8APzZTJuonCWEjw9gVLh4xFL39wS1jg3GaRQmY3IlpXKCVqF6FYtnpYNDnManiZAGy" data-form-email="true">
+                    <input type="hidden" value="DVRV/pHOmigWypOq++AruoYaadT2IQzPBmUQ2dw+ig7McJlyVlz/6nIWJQNxj6Np1ymfJrRyhKwTV3ARV8ZIGMOsHXiZlYAF2P57A9uNIu9j9Zq5RdDnyZsn3/lEStkh" data-form-email="true">
                     <div class="form-group">
                         <input type="text" class="form-control" name="name" required="" placeholder="Name*" data-form-field="Name">
                     </div>
@@ -72,7 +73,7 @@
                         <textarea class="form-control" name="message" rows="7" placeholder="Message" data-form-field="Message"></textarea>
                     </div>
                     <div class="text-xs-right"><button type="submit" class="btn btn-secondary-outline">Contact Me</button></div>
-                </form>
+                <span class="gdpr-block "><label><input type="checkbox" name="gdpr" id="gdpr-input" required="">By continiung you agree to our <a href="terms.html">Terms of Service</a> and <a href="policy.html">Privacy Policy</a>.</label></span></form>
             </div>
         </div>
     </div>
@@ -96,10 +97,13 @@
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/smooth-scroll/SmoothScroll.js"></script>
+  <script src="assets/cookies-alert-plugin/cookies-alert-core.js"></script>
+  <script src="assets/cookies-alert-plugin/cookies-alert-script.js"></script>
   <script src="assets/jarallax/jarallax.js"></script>
   <script src="assets/puritym/js/script.js"></script>
   <script src="assets/formoid/formoid.min.js"></script>
   
   
-</body>
+<input name="cookieData" type="hidden" data-cookie-text="We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.">
+  </body>
 </html>
