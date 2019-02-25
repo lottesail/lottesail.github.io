@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Charlotte Seiler Yoga",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 109,
+    "uniqCompNum": 110,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -28,7 +28,7 @@
     "startpractising.html": {
       "settings": {
         "title": "Why I Started Practising Yoga",
-        "order": 7,
+        "order": 8,
         "meta_descr": "In this first blog entry I philosophise about the yoga glow and why I never want to give up yoga."
       },
       "components": [
@@ -240,7 +240,7 @@
     "beatingtheblues.html": {
       "settings": {
         "title": "Beating The Winter Blues With Yoga",
-        "order": 6,
+        "order": 7,
         "meta_descr": "How yoga can help us feel fresh and energised during the grey winter (or spring or autumn) days (including some home sequencing advice)."
       },
       "components": [
@@ -452,7 +452,7 @@
     "exploreyogastyles.html": {
       "settings": {
         "title": "Exploring Different Yoga Styles",
-        "order": 5,
+        "order": 6,
         "meta_descr": "In this article I explain why I value both consistency and variety in my yoga practice."
       },
       "components": [
@@ -664,7 +664,7 @@
     "humansvsnature.html": {
       "settings": {
         "title": "Humans vs Nature?",
-        "order": 4,
+        "order": 5,
         "meta_descr": "Some thoughts on the implications of consumerism and on how yoga can help us re-evaluate our relationship with nature."
       },
       "components": [
@@ -881,7 +881,7 @@
     "about.html": {
       "settings": {
         "title": "About",
-        "order": 1,
+        "order": 2,
         "meta_descr": "Originally from Berlin, I have lived in international contexts for almost 10 years now. I've practiced and loved yoga since 2010 when I discovered it at a vipasana retreat in Thailand. After years of practice I felt ready to pass on my knowledge to others. I've thus completed a 200h Yoga Alliance certified teacher training in Rishikesh, India at the start of 2018. I teach a variety of styles from slow flow to dynamic vinyasa yoga."
       },
       "components": [
@@ -1038,7 +1038,7 @@
     "contact.html": {
       "settings": {
         "title": "Contact",
-        "order": 8,
+        "order": 9,
         "meta_descr": "Drop me a line if you want to book me for a class or workshop!"
       },
       "components": [
@@ -1215,7 +1215,7 @@
     "yogaoffthemat.html": {
       "settings": {
         "title": "Yoga Starts Off The Mat - But How?",
-        "order": 3,
+        "order": 4,
         "meta_descr": "How small daily exercises can benefit our wellbeing and balance our posture (every movement is a potential pose)."
       },
       "components": [
@@ -1432,7 +1432,7 @@
     "blog.html": {
       "settings": {
         "title": "Blog",
-        "order": 2,
+        "order": 3,
         "meta_descr": "On my blog I share my thoughts on yoga and sustainability. "
       },
       "components": [
@@ -1885,7 +1885,7 @@
       "settings": {
         "main": true,
         "title": "Index",
-        "meta_descr": "I'm a Brighton-based yoga teacher, passionate about yoga and sustainability. Yoga has been an essential part of my life for many years and I teach a variety of styles from slow flow to dynamic. I hope to meet you soon in class!  In the meanwhile, I'm sharing my thoughts on yoga and a sustainable lifestyle here on my blog.",
+        "meta_descr": "I'm a Berlin-based yoga teacher, passionate about yoga and sustainability. Yoga has been an essential part of my life for many years and I teach a variety of styles from slow flow to dynamic. I hope to meet you soon in class!  In the meanwhile, I'm sharing my thoughts on yoga and a sustainable lifestyle here on my blog.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
